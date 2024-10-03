@@ -1,1 +1,1 @@
-
+The goal of this project is to analyze data on the mental health of international students to examine how the length of stay (column stay) affects average mental health assessment results. The analysis is based on the data contained in the students table, which includes information about various student characteristics, such as student type (international or domestic), language proficiency, age, length of stay, and scores from mental health assessments.
